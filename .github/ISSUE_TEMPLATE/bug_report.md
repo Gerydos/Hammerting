@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Callstack (if a crash)**
+You can press ctrl + c on the callstack and ctrl + v here to paste it.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
